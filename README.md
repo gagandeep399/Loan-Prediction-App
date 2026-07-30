@@ -3,6 +3,8 @@
 A machine learning web application that predicts loan approval probability.
 Features interactive dashboard with data analysis and real-time predictions.
 
+![image alt](https://github.com/gagandeep399/Loan-Prediction-App/blob/edf7e3bfe44fbc180ff3f4c8c7861c337051229f/Loan_project_image.png)
+
 ## Features
 - Loan eligibility prediction
 - Data preprocessing
