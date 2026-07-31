@@ -7,7 +7,7 @@ Features interactive dashboard with data analysis and real-time predictions.
 
 ![image alt](https://github.com/gagandeep399/Loan-Prediction-App/blob/17a25900e10249549dbbf0b81ee9ad30713dc7a0/Loan_prediction_image(2).png)
 
-
+![image alt](https://github.com/gagandeep399/Loan-Prediction-App/blob/fa09bd6414a219ee6ade5da1aeb7a6991d310cf4/Loan_prediction_image(4).png)
 
 ## Features
 - Loan eligibility prediction
